@@ -6,6 +6,8 @@ Root is a data analysis framework created at CERN to provide analysis and plotti
 
 ROOT is written in C++, and allows for input through a command line interface, through scripts, and through direct inclusion in other C++ code.
 
+http://root.cern.ch/drupal/
+
 ## This Package
 This package uses ROOT as a back-end for plotting, but streamlines the analysis portion for faster adaptability, and provides a more streamlined input interface.  The inputs in ROOT analysis scripts are often unintuitive, and various related flags can be set at different unintuitive locations.  This package also allows a reasonably broad set of formulas to be input, as well as applying experimental constraints on parameter space.
 
