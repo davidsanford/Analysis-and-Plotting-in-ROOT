@@ -14,7 +14,7 @@ This package uses ROOT as a back-end for plotting, but streamlines the analysis 
 Separate from the plotting tools, this package also includes tools for parsing inputs from Les Houches Accord (LHA) and LHC Olympics (LHCO) files, used to store particle spectra and simulated collider events respectively.
 
 ## Requirements
-This package requires ROOT to be installed on the system.  A template input file is included, and can be run from the main program directory.  Aggregate routines expect the presence of a series of .lha/.slha or .lhco files with regular naming schemes, for example
+This package contains research code not meant for general use.  It requires ROOT to be installed on the system.  A template input file is included, and can be run from the main program directory.  Aggregate routines expect the presence of a series of .lha/.slha or .lhco files with regular naming schemes, for example
 
     xxxx[0-9]yyyy[0-9]zzzz[0-9].lha,
 
